@@ -1,7 +1,7 @@
 package main
 
 import (
-    "deployment-manager/cmd"
+    "deployment-manager/pkg/cmd"
     "fmt"
     "os"
 )
